@@ -1,0 +1,8 @@
+tensorflow
+keras
+nltk
+spacy
+wordcloud
+matplotlib
+pandas
+scikit-learn
